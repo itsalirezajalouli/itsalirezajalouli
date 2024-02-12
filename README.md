@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsalirezajalouli
 - 👀 I’m interested in Python & Machine Learning
-- 🌱 I’m currently learning Harvard's CS50’s Introduction to Python Course
+- 🌱 I’m currently learning Harvard's CS50’s Introduction to Artificial Intelligence Course
 - 💞️ I’m looking to collaborate on Not much right now
 - 📫 How to reach me : alirezajalouli2023@gmail.com
 
