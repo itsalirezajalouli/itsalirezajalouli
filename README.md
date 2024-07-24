@@ -32,6 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itsalirezajalouli/itsalirezajalouli/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/itsalirezajalouli/output/snake.svg" alt="Snake animation" />
 
 ###
