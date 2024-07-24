@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @itsalirezajalouli
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on anything related to my field
-- 📫 How to reach me : alirezajalouli2024@gmail.com
+<h2 align="left">The Name... is A.J.</h2>
 
-<!---
-itsalirezajalouli/itsalirezajalouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">Hello Friend. I do deep & machine learning mostly,<br>I use Python as my primary language but some day I wish to learn Rust too.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/ee/31/b8/ee31b81baa799897721dfd6e2d2ab97e.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/itsalirezajalouli/itsalirezajalouli/output/snake.svg" alt="Snake animation" />
+
+###
