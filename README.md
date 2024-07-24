@@ -28,6 +28,6 @@
 
 ###
 
-<p align="left">Hello Friend. I do deep & machine learning mostly,<br>I use Python as my primary language but some day I wish to learn Rust too.</p>
+<p align="left">Hello Friend. I do deep & machine learning mostly,<br>I use Python as my primary language but some day I wish to learn Rust too.<br><br><br>alirezajalouli2023@gmail.com</p>
 
 ###
