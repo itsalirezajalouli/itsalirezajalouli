@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Hello Friend. I do deep & machine learning mostly,<br>I use Python as my primary language but some day I wish to learn Rust too.</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -32,6 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itsalirezajalouli/output/snake.svg" alt="Snake animation" />
+<p align="left">Hello Friend. I do deep & machine learning mostly,<br>I use Python as my primary language but some day I wish to learn Rust too.</p>
 
 ###
