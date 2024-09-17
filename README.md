@@ -11,9 +11,10 @@ Hello! I'm just a very passionate & curious guy, I love programming in Python & 
 
 ### What You'll Find Here 
 
-Educational Content: Comprehensive guides and tutorials on various cybersecurity topics. Insights and Analysis: In-depth analyses of recent cybersecurity threats, vulnerabilities, and best practices. Tools and Resources: Practical tools and resources to enhance your cybersecurity skills and knowledge.
+Codes: Loads of them! I like sharing what I do hopefully people interested in same fields will find me.
+Article: I share stuff that I learn in my Blog, You can read them in the link below:
 
-* 🖥️  See my portfolio at [HiveMind Security](http://hivemindsecurity.com/)
+* 🖥️  See my blog at [Pu$h3r's Blog](http://google.com/)
 
 ### Skills
 
