@@ -7,7 +7,7 @@ Python + Rust Programmer
 
 ### About Me 
 
-Hello! I'm just a very passionate & curious guy, I love programming in Python & Rust. My main Expertise is in data analysis and deep learning but I love doing fun stuff with terminal and CLI softwares. I am fund of complexity and challenge. If You have something challenging for me, your more than wellcome to talk to me in my socials.
+Hello! I'm just a very passionate & curious guy, I love programming in Python & Rust. My main Expertise is in data analysis and deep learning but I love doing fun stuff with terminal and CLI softwares. I am fund of complexity and challenge. If You have anything challenging for me, you are more than wellcome to talk to me in my socials. :)
 
 ### What You'll Find Here 
 
