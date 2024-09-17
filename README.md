@@ -11,8 +11,8 @@ Hello! I'm just a very passionate & curious guy, I love programming in Python & 
 
 ### What You'll Find Here 
 
-Codes: Loads of them! I like sharing what I do hopefully people interested in same fields will find me.
-Article: I share stuff that I learn in my Blog, You can read them in the link below:
+- Codes: Loads of them! I like sharing what I do hopefully people interested in same fields will find me.
+- Article: I share stuff that I learn in my Blog, You can read them in the link below:
 
 * 🖥️  See my blog at [Pu$h3r's Blog](http://google.com/)
 
